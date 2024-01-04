@@ -1,0 +1,3 @@
+<h1 align="center">Clipboard Landing Page <img src="./src/images/logo.svg" alt="Logo" width="20"/></h1>
+
+- Esta landing page foi construída exclusivamente utilizando HTML e CSS, sendo resultado de um desafio proposto pela Front-end Mentor. A iniciativa representou uma valiosa oportunidade de aprimorar minhas habilidades, especialmente no domínio de técnicas como flexibilidade, responsividade e organização de múltiplos arquivos CSS. A abordagem de dividir esses arquivos em seções específicas não apenas contribuiu para a clareza estrutural do projeto, mas também facilitou significativamente a realização de futuras manutenções.
